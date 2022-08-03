@@ -1,0 +1,5 @@
+Fonte h1 principal:
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredericka+the+Great&display=swap');
+
+font-family: 'Bebas Neue', 'Fredericka the Great', Times, serif;
